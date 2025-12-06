@@ -32,4 +32,6 @@ Successfully implemented a scalable, secure, and segmented campus network.
 Ensured robust routing and inter-department communication.
 Demonstrated hands-on practical networking skills suitable for real-world campus deployments.
 
-Topology & Screenshots
+Future Enhancements
+Implement network monitoring tools for proactive maintenance.
+Explore network automation using Python or Ansible.
